@@ -1,6 +1,6 @@
 //  ex 1 
 
-for (let nombre = 1; nombre <= 20; nombre++) 
+for (let nombre = 20; nombre >= 1; nombre--) 
     if (nombre % 2 === 0) 
         console.log(nombre); 
 

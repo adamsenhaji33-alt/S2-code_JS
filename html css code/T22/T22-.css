@@ -1,0 +1,30 @@
+
+.S{
+    color: rgba(39, 39, 207, 0.911);
+    font-size: medium;
+  border: #fffefe;
+   
+}
+.Bobe1{
+    padding-top: 90px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.Bobe1 h1{
+    font-size: 4rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+.Bobe2 img{
+       width: 70px;
+       height: 70px;
+       border-radius: 100%;
+}
+
+.bobe3 img {
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+}

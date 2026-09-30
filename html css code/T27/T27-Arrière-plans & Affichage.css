@@ -1,0 +1,13 @@
+.bobe1{
+    background-color: #bdd8ff;
+    padding: 40px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.badge{
+    color: rgb(20, 20, 113);
+    padding: 5px 15px;
+    background: white;
+    display: inline-flex;
+}

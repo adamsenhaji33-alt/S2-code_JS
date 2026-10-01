@@ -1,0 +1,72 @@
+.Bobe1{
+    background-color: #efecec;
+    padding: 40px; 
+    text-align: center;
+    font-style: oblique;
+}
+
+.Bobe1 h1{
+    font-size: 50px;
+}
+.saze{
+    display: inline;
+    background: white;
+    color: #1c5bba;
+    padding: 5px 15px;
+}
+.Bobe2 img{
+    width: 80px;
+    height: auto;
+    border-radius: 200%;
+}
+.Bobe3{
+   max-width: 800px ; 
+}
+
+.Bobe3 img{
+    display: black;
+    width: 190%;
+    height: 350px;
+    object-fit: cover;
+    padding-bottom: 50px;
+            
+}
+
+.S2{
+    max-width: 700px;
+    margin: auto;
+    margin-top: -50px;
+    padding: 40px;
+    border: 1px solid #ccc;
+
+}
+.Bobe5 img{
+    width: 600px;
+    height: 500px;
+}
+
+.Bobe5 figcaption{
+    text-align: center;   
+}
+
+.Bobe6{
+     margin: 20px 0;
+    padding: 15px 20px;
+    background: #d8e5f1;
+    border-left: 5px solid rgb(154, 154, 255);
+    border-radius: 0 10px 10px 0;
+}
+.Bobe6 P{
+    font-size: 20Px;
+}
+
+.Bobe6 cite{
+    font-size: small;
+    color: #636262;
+}
+ .Bobe7{
+    font-size: 20px;
+    line-height: 50px;
+ }
+
+ 

@@ -3,7 +3,7 @@
 }
 
 .image-couverture{
-    display: black;
+    display: block;
     width: 100%;
     height: 300px;
     object-fit: cover;

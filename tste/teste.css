@@ -1,0 +1,120 @@
+body{
+    color: rgb(8, 64, 113);
+    font-family: Arial, Helvetica;
+    background: rgb(249, 249, 248);
+    margin: 0;
+}
+
+a{
+    color: inherit; 
+    text-decoration: none; 
+}
+
+header{
+    height: 70px;   
+    padding: 0 3%;
+    background: rgb(237, 230, 230);
+    border-radius: 1px solid #e6edf8;
+}
+
+.logo{
+    color: blue;
+    display: inline-block;
+    padding-top:20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+main{
+   max-width: 1400px;
+   margin: auto;
+   padding: 60px 32px 28px;
+}
+
+.hero {
+    display: inline-block;
+    width: 46%;
+}
+.hero h1{
+    font-size: 60px;
+}
+.hero span{
+    color: rgb(0, 0, 205);
+}
+.hero p{
+    font-size: 17px;
+    color: rgb(9, 140, 196);
+}
+
+.button{
+    display: block;
+    background: #7b85de;
+    width: 20%;
+    padding: 15px 0 15px;
+    text-align: center;
+    font-weight: bolder;
+    border-radius: 15px;
+}
+.label{
+    display: inline-block;
+    padding: 5px 12px;
+    color: #7b85de;
+    background: #e9f2ff;
+    border-radius: 15px;
+}
+
+.image img{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 18px;
+    display: block;
+    margin-left: 700px;
+    margin-top: -330px;
+}
+
+.cards{
+    margin: 30px 0;
+    text-align: center;
+}
+
+.cards b{
+    display: inline-block;
+    width: 50px;
+    padding: 8px 0;
+    text-align: center;
+    border-radius: 15px;
+    font-size: xx-large;
+}
+
+.goal {
+    padding: 18px;
+    background: white;
+    border-radius: 19px;
+}
+.goal img , .goal div{
+    display: inline-block;
+    width: 48%;
+    border-radius: 12px;
+}
+.goal img{
+    height: 420px;
+    object-fit: cover;
+}
+
+.goal div{
+    padding-left: 50px;
+}
+
+.goal h2{
+    font-size: 36px;
+}
+
+footer {
+    margin-top: 20px;
+    padding: 22px;
+    color: white;
+    background: #0b254a;
+    text-align: center;
+}
